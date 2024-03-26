@@ -2,7 +2,8 @@
 
 Project 08 | Create a Pomodoro timer using HTML, CSS and Javascritpt.
 
-!["Focus Timer" Project](https://github.com/fabianolxs/focus-timer/blob/main/assets/focus-timer.png)
+![image](https://github.com/FabianoLXS/focusTimerPomodoro/assets/47800473/3a50692a-3eb6-4ace-b752-fddc48a357a1)
+
 
 The buttons below the timer have the following functions:
 
